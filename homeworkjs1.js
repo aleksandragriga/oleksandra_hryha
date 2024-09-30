@@ -92,3 +92,7 @@ console.log(example19);
 // Конвертація +null = 0, false = 0 (0=0 тому true)
 // 1 підноситься до ступення 5 отримуємо 1 
 // порівнюємо true (true =1) та 1, 1 не менше за 1 тому false
+
+
+test = Math.floor(Math.random()*900)+100;
+console.log(test);

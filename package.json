@@ -1,0 +1,14 @@
+{
+  "name": "oleksandra_hryha",
+  "version": "1.0.0",
+  "description": "oleksandra_hryha",
+  "main": "homeworkjs1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promt": "^0.0.0"
+  }
+}
